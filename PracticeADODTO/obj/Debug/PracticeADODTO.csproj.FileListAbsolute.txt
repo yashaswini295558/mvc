@@ -1,0 +1,5 @@
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODTO\bin\Debug\PracticeADODTO.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODTO\bin\Debug\PracticeADODTO.pdb
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODTO\obj\Debug\PracticeADODTO.csproj.CoreCompileInputs.cache
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODTO\obj\Debug\PracticeADODTO.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODTO\obj\Debug\PracticeADODTO.pdb

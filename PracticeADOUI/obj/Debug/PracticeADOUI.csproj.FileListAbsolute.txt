@@ -1,0 +1,14 @@
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADOUI.exe.config
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADOUI.exe
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADOUI.pdb
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADOBL.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADODTO.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADODAL.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADOBL.pdb
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADODTO.pdb
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\bin\Debug\PracticeADODAL.pdb
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\obj\Debug\PracticeADOUI.csproj.AssemblyReference.cache
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\obj\Debug\PracticeADOUI.csproj.CoreCompileInputs.cache
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\obj\Debug\PracticeADOUI.csproj.CopyComplete
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\obj\Debug\PracticeADOUI.exe
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADOUI\obj\Debug\PracticeADOUI.pdb

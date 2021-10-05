@@ -1,0 +1,9 @@
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\bin\Debug\PracticeADODAL.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\bin\Debug\PracticeADODAL.pdb
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\bin\Debug\PracticeADODTO.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\bin\Debug\PracticeADODTO.pdb
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\obj\Debug\PracticeADODAL.csproj.AssemblyReference.cache
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\obj\Debug\PracticeADODAL.csproj.CoreCompileInputs.cache
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\obj\Debug\PracticeADODAL.csproj.CopyComplete
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\obj\Debug\PracticeADODAL.dll
+C:\Users\nayak\Desktop\AugustGenesis\PracticeADOUI\PracticeADODAL\obj\Debug\PracticeADODAL.pdb
